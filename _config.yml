@@ -22,9 +22,9 @@ repository               : "anniegray52/anniegray52.github.io"
 author:
   # Biographic information
   avatar           : "website-picture.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Annie Gray"
   pronouns         : "she/her"  
-  bio              : "Statistical machine learning PhD student"
+  bio              : "Statistical Machine Learning PhD Student"
   location         : "Bristol, UK"
   employer         : "University of Bristol"
   uri              : # URL
