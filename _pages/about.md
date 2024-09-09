@@ -1,17 +1,20 @@
 ---
 permalink: /
-title: "Summary of research"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+Summary of research
+======
+
 I'm a PhD student at the Centre for Doctoral Training in Computational Statistics and Data Science at the University of Bristol, supervised by Professor Patrick Rubin-Delanchy and Professor Nick Whiteley.
 
 My research consists of providing a statistical grounding for manifold structure in high-dimensional data and to demonstrate that rich topological and geometric structure can emerge from generic and simple statistical assumptions involving correlations and latent variables. The aim of this work is to shed light on the efficacy of PCA for reduction from high to moderate dimensions before clustering, topological data analysis, nonlinear dimension reduction, regression and classification. This lead to work which gives insights to recover hidden tree structure in data via hierarchical clustering with dot products.
 
-I have also created python package: [pyemb](https://github.com/pyemb/pyemb). With tools to perform exploratory data anaylsis for complex data such as embedding, clustering and visualisation. 
+I have also created python package: [pyemb](https://github.com/pyemb/pyemb). It contains tools to perform exploratory data anaylsis for complex data such as embedding, clustering and visualisation. 
 
 
 Papers
